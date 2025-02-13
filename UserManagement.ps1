@@ -1,5 +1,15 @@
 ﻿# IT Support - User Account Management Script
 
+""" 
+File name: UserManagement.ps1
+Author: Janessa Reed 
+Created: 02/12/2025
+Version: 1.0
+
+License: MIT License
+
+"""
+
 function Show-Menu {
     Clear-Host
     Write-Host "=== User Account Management ===" -ForegroundColor Cyan
