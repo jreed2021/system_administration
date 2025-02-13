@@ -1,6 +1,16 @@
 ﻿# IT Support System Info Script
 # This script gathers essential system information for troubleshooting
 
+"""
+File name: sys_info.ps1
+Author: Janessa Reed
+Created: 02/12/2025
+Version: 1.0
+
+License: MIT License
+"""
+
+
 # Function to gather basic system info
 function Get-SystemInfo {
     Write-Host "`nCollecting system information..."
